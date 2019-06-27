@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of the Office](https://dribbble.com/shots/6009344-Dunder-Mifflin-Desktop-Wallpaper)
