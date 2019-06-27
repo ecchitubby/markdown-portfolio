@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+**Things i like**
+* pizza
+* the office
+* skyrim
+* programming
+* music
